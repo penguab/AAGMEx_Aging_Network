@@ -1,0 +1,85 @@
+Tissue	Module	Size	Layer	Parent	Hub	Function	Enrichment of aging-upregulated genes	Enrichment of aging-downregulated genes
+Metabolite	M18	89	3	M4	X62805,X35137,X48782,X62060	Histidine Metabolism	1.89394759082326e-11	NA
+Metabolite	M70	39	4	M18	X62805	Histidine Metabolism	3.29412760158006e-07	NA
+Metabolite	M4	207	2	M1	X62805,X35137,X48782,X62060,X35126,X42382,X46977	Tryptophan Metabolism	4.89176393591616e-06	NA
+Metabolite	M72	22	4	M20		Monoacylglycerol	2.49573348253696e-05	NA
+Metabolite	M11	34	3	M2		Androgenic Steroids	NA	5.30924507761271e-17
+Metabolite	M51	16	4	M11	X32619	Androgenic Steroids	NA	5.94999472526239e-12
+Metabolite	M20	44	3	M5		Diacylglycerol	0.00527248169306763	NA
+Metabolite	M69	19	4	M18	X35137	NA	NA	NA
+Metabolite	M28	20	3	M6	X32391,X34395	Xanthine Metabolism	0.00643971662958986	NA
+Metabolite	M2	387	2	M1	X43591,X63,X52470,X52435,X57461,X47153,X52437	Sphingomyelins	NA	NA
+Metabolite	M3	12	2	M1	X1444,X39592	Methionine, Cysteine, SAM and Taurine Metabolism	NA	NA
+Metabolite	M5	342	2	M1	X52285,X63357,X63660,X1336,X31943,X33972,X17805,X33968	Fatty Acid, Monohydroxy	NA	NA
+Metabolite	M6	112	2	M1	X48448	Xanthine Metabolism	NA	NA
+Metabolite	M7	60	2	M1		Secondary Bile Acid Metabolism	NA	NA
+Metabolite	M8	103	3	M2	X52435,X63,X47153,X52437	Sphingomyelins	NA	NA
+Metabolite	M9	126	3	M2	X43591,X52470	Lysophospholipid	NA	NA
+Metabolite	M10	50	3	M2	X57461,X55072	Urea cycle; Arginine and Proline Metabolism	NA	NA
+Metabolite	M12	22	3	M2	X63592	Phosphatidylcholine (PC)	NA	NA
+Metabolite	M13	52	3	M2		Gamma-glutamyl Amino Acid	NA	NA
+Metabolite	M15	27	3	M4	X35126	Tryptophan Metabolism	NA	NA
+Metabolite	M16	29	3	M4		Leucine, Isoleucine and Valine Metabolism	NA	NA
+Metabolite	M17	41	3	M4	X41754,X32342,X46972	NA	NA	NA
+Metabolite	M19	12	3	M4	X54841,X63634	Pyrimidine Metabolism, Uracil containing	NA	NA
+Metabolite	M21	69	3	M5	X52285,X1336	Long Chain Polyunsaturated Fatty Acid (n3 and n6)	NA	NA
+Metabolite	M22	38	3	M5	X63650,X62146	Partially Characterized Molecules	NA	NA
+Metabolite	M23	52	3	M5		Fatty Acid Metabolism (Acyl Carnitine, Monounsaturated)	NA	NA
+Metabolite	M24	77	3	M5		Fatty Acid, Dicarboxylate	NA	0.0482782328409611
+Metabolite	M25	29	3	M5		NA	NA	NA
+Metabolite	M26	33	3	M5	X46390	Chemical	NA	NA
+Metabolite	M27	21	3	M6	X62636,X48990	NA	NA	NA
+Metabolite	M29	34	3	M6	X48448	Benzoate Metabolism	NA	NA
+Metabolite	M30	18	3	M6	X62533	Benzoate Metabolism	NA	NA
+Metabolite	M31	11	3	M6	X1572	NA	NA	NA
+Metabolite	M33	21	3	M7	X18476	Secondary Bile Acid Metabolism	NA	NA
+Metabolite	M34	14	3	M7	X32620	Secondary Bile Acid Metabolism	NA	NA
+Metabolite	M35	10	3	M7		Secondary Bile Acid Metabolism	NA	NA
+Metabolite	M36	15	3	M7	X52974,X46516	Secondary Bile Acid Metabolism	NA	NA
+Metabolite	M37	18	4	M8		NA	NA	NA
+Metabolite	M38	47	4	M8	X52435,X52437	Sphingomyelins	NA	NA
+Metabolite	M39	29	4	M8	X63,X52616	Phosphatidylcholine (PC)	NA	NA
+Metabolite	M43	58	4	M9	X43591	Androgenic Steroids	NA	NA
+Metabolite	M45	29	4	M9	X52470	Lysophospholipid	NA	NA
+Metabolite	M48	40	4	M10	X57461	Urea cycle; Arginine and Proline Metabolism	NA	NA
+Metabolite	M49	10	4	M10	X35127	Lysine Metabolism	NA	NA
+Metabolite	M50	13	4	M11	X37203	Androgenic Steroids	NA	5.77569323520106e-07
+Metabolite	M54	14	4	M12	X63592,X46690	NA	NA	NA
+Metabolite	M55	19	4	M13	X18369	Leucine, Isoleucine and Valine Metabolism	NA	NA
+Metabolite	M56	19	4	M13		Gamma-glutamyl Amino Acid	NA	NA
+Metabolite	M57	14	4	M13		Tryptophan Metabolism	NA	NA
+Metabolite	M65	14	4	M16	X34407	Leucine, Isoleucine and Valine Metabolism	NA	NA
+Metabolite	M66	32	4	M17	X41754,X32342,X46972	Glutamate Metabolism	NA	NA
+Metabolite	M73	11	4	M20		Diacylglycerol	NA	NA
+Metabolite	M74	11	4	M20		Lysophospholipid	NA	NA
+Metabolite	M75	38	4	M21	X52285,X1336,X33972	Long Chain Polyunsaturated Fatty Acid (n3 and n6)	NA	NA
+Metabolite	M81	10	4	M22	X46602	NA	NA	NA
+Metabolite	M83	10	4	M22	X62146	Partially Characterized Molecules	NA	NA
+Metabolite	M84	36	4	M23		Fatty Acid, Monohydroxy	NA	NA
+Metabolite	M85	16	4	M23	X35160	Fatty Acid Metabolism (Acyl Carnitine, Monounsaturated)	NA	NA
+Metabolite	M86	33	4	M24	X63357,X47993	Fatty Acid, Dicarboxylate	NA	0.0482782328409611
+Metabolite	M87	44	4	M24		Fatty Acid, Dicarboxylate	NA	NA
+Metabolite	M88	19	4	M25	X1516	Glycine, Serine and Threonine Metabolism	NA	NA
+Metabolite	M89	10	4	M25		NA	NA	NA
+Metabolite	M91	26	4	M26	X46390	Chemical	NA	NA
+Metabolite	M93	17	4	M27	X62636,X48990	NA	NA	NA
+Metabolite	M99	12	4	M30	X62533,X46490	Benzoate Metabolism	NA	NA
+Metabolite	M110	18	5	M38	X52435	Sphingomyelins	NA	NA
+Metabolite	M116	17	5	M39	X63,X52616	Phosphatidylcholine (PC)	NA	NA
+Metabolite	M119	23	5	M43	X43591,X39603	NA	NA	NA
+Metabolite	M125	11	5	M45	X45951	Lysophospholipid	NA	NA
+Metabolite	M127	17	5	M48	X57461,X55072	Urea cycle; Arginine and Proline Metabolism	NA	NA
+Metabolite	M145	13	5	M72	X48341	Monoacylglycerol	0.041324971560385	NA
+Metabolite	M148	23	5	M75	X52285,X1336	Long Chain Polyunsaturated Fatty Acid (n3 and n6)	NA	NA
+Metabolite	M152	10	5	M84	X33941	Fatty Acid Metabolism (Acyl Carnitine, Monounsaturated)	NA	NA
+Metabolite	M153	26	5	M84		Fatty Acid, Monohydroxy	NA	NA
+Metabolite	M154	12	5	M86	X22036	Fatty Acid, Monohydroxy	NA	NA
+Metabolite	M155	21	5	M86	X47993,X63357,X18362	Fatty Acid, Dicarboxylate	NA	NA
+Metabolite	M156	12	5	M87	X31943	Fatty Acid, Dicarboxylate	NA	NA
+Metabolite	M157	14	5	M87	X63660	Partially Characterized Molecules	NA	NA
+Metabolite	M161	13	5	M88	X21025	Glycine, Serine and Threonine Metabolism	NA	NA
+Metabolite	M166	13	5	M91	X46594	NA	NA	NA
+Metabolite	M174	15	6	M153		Fatty Acid, Monohydroxy	NA	NA
+Metabolite	M175	11	6	M153	X33968	Partially Characterized Molecules	NA	NA
+Metabolite	M176	11	6	M155	X47993	Benzoate Metabolism	NA	NA
+Metabolite	M178	11	7	M174	X32457	Fatty Acid, Monohydroxy	NA	NA
