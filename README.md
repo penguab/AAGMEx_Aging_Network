@@ -10,7 +10,7 @@ Draft date: March 22, 2023
 
 ## Description
 
-The co-expression networks for different tissues were uniformly processed by the MEGENA pipeline. The gene expressions were generated from the normalized microarray datasets from the AAGMEx cohort. Metabolime was profiled by untargeted liquid chromatography-mass spectrometry.
+The co-expression networks for different tissues were uniformly processed by the MEGENA pipeline. The gene expressions were generated from the normalized microarray datasets from the AAGMEx cohort. Metabolome was profiled by untargeted liquid chromatography-mass spectrometry.
 
 For each tissue, three files were shared for the network results.
 
